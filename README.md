@@ -161,17 +161,6 @@ src/
 
 ---
 
-## 📹 Screencast (Demo + Code Explanation)
-
-[🎥 Video Link](https://your-video-url.com)
-
-The video includes:
-- Demo via Postman
-- Code walkthrough
-- Explanation of retry, fallback, rate limiting, and more
-
----
-
 ## ✅ To-Do / Future Improvements
 
 - Add persistent store (Redis/DB) for idempotency and statuses  
