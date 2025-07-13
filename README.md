@@ -6,7 +6,7 @@ A robust and modular email sending service built with JavaScript. This system is
 
 The project is deployed using **Render**.
 
-> 🔗 [Live API Endpoint (Render)](https://your-render-url.onrender.com)
+> 🔗 [Live API Endpoint (Render)](https://emailservice-sxcl.onrender.com)
 
 ---
 
